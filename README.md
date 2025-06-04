@@ -2,5 +2,4 @@
 
 Bem-Vindo ao todo-app construído em Rust!!!
 
-Projeto desenvolvido durante curso na Udemy.
-Curso: "Framework Axum: Construa um App Todo Interativo com Rust"
+Projeto desenvolvido durante curso na Udemy. Através da framework Axum da linguagem Rust
